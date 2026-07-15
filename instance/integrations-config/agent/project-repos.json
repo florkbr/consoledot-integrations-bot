@@ -1,43 +1,38 @@
 {
   "sources-api-go": {
     "url": "https://github.com/platex-rehor-bot/sources-api-go.git",
-    "upstream": "git@github.com:RedHatInsights/sources-api-go.git"
+    "upstream": "https://github.com/RedHatInsights/sources-api-go.git"
   },
   "notifications-backend": {
     "url": "https://github.com/platex-rehor-bot/notifications-backend.git",
-    "upstream": "git@github.com:RedHatInsights/notifications-backend.git"
+    "upstream": "https://github.com/RedHatInsights/notifications-backend.git"
   },
   "payload-tracker": {
     "url": "https://github.com/platex-rehor-bot/payload-tracker-go.git",
-    "upstream": "git@github.com:RedHatInsights/payload-tracker-go.git"
+    "upstream": "https://github.com/RedHatInsights/payload-tracker-go.git"
   },
   "sources-superkey-worker": {
     "url": "https://github.com/platex-rehor-bot/sources-superkey-worker.git",
-    "upstream": "git@github.com:RedHatInsights/sources-superkey-worker.git"
+    "upstream": "https://github.com/RedHatInsights/sources-superkey-worker.git"
   },
   "sources-monitor-go": {
     "url": "https://github.com/platex-rehor-bot/sources-monitor-go.git",
-    "upstream": "git@github.com:RedHatInsights/sources-monitor-go.git"
+    "upstream": "https://github.com/RedHatInsights/sources-monitor-go.git"
   },
   "export-service-go": {
     "url": "https://github.com/platex-rehor-bot/export-service-go-fork.git",
-    "upstream": "git@github.com:RedHatInsights/export-service-go.git"
+    "upstream": "https://github.com/RedHatInsights/export-service-go.git"
   },
   "insights-ingress-go": {
     "url": "https://github.com/platex-rehor-bot/insights-ingress-go.git",
-    "upstream": "git@github.com:RedHatInsights/insights-ingress-go.git"
+    "upstream": "https://github.com/RedHatInsights/insights-ingress-go.git"
   },
   "insights-storage-broker": {
     "url": "https://github.com/platex-rehor-bot/insights-storage-broker.git",
-    "upstream": "git@github.com:RedHatInsights/insights-storage-broker.git"
+    "upstream": "https://github.com/RedHatInsights/insights-storage-broker.git"
   },
   "scheduler": {
     "url": "https://github.com/platex-rehor-bot/scheduler.git",
-    "upstream": "git@github.com:RedHatInsights/scheduler.git"
-  },
-  "app-interface-hcc-integration": {
-    "url": "git@gitlab.cee.redhat.com:platex-rehor-bot/app-interface.git",
-    "upstream": "git@gitlab.cee.redhat.com:service/app-interface.git",
-    "host": "gitlab"
+    "upstream": "https://github.com/RedHatInsights/scheduler.git"
   }
 }
